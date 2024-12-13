@@ -1,0 +1,431 @@
+[
+  {
+    "box": [
+      47,
+      589,
+      1529,
+      632
+    ],
+    "score": 0.8655744791030884,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      79,
+      191,
+      997,
+      973
+    ],
+    "score": 0.9974881410598755,
+    "label": "table spanning cell",
+    "type": "cell"
+  },
+  {
+    "box": [
+      55,
+      1665,
+      1507,
+      1763
+    ],
+    "score": 0.9823343753814697,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      1412,
+      1517,
+      1455
+    ],
+    "score": 0.7763049602508545,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      65,
+      1452,
+      1513,
+      1496
+    ],
+    "score": 0.7880985140800476,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      52,
+      1201,
+      1520,
+      1243
+    ],
+    "score": 0.9827947020530701,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      61,
+      1304,
+      1516,
+      1348
+    ],
+    "score": 0.8551208972930908,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      152,
+      174,
+      1014,
+      2057
+    ],
+    "score": 0.9999858140945435,
+    "label": "table column",
+    "type": "column"
+  },
+  {
+    "box": [
+      56,
+      1510,
+      1517,
+      1556
+    ],
+    "score": 0.8024998307228088,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      61,
+      876,
+      1511,
+      923
+    ],
+    "score": 0.7095351815223694,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      59,
+      1337,
+      1514,
+      1381
+    ],
+    "score": 0.8285759091377258,
+    "label": "table projected row header",
+    "type": "row"
+  },
+  {
+    "box": [
+      58,
+      929,
+      1517,
+      972
+    ],
+    "score": 0.856439471244812,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      68,
+      187,
+      1505,
+      421
+    ],
+    "score": 0.998698353767395,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      63,
+      175,
+      1510,
+      790
+    ],
+    "score": 0.9818562865257263,
+    "label": "table column header",
+    "type": "column"
+  },
+  {
+    "box": [
+      58,
+      1834,
+      1503,
+      1916
+    ],
+    "score": 0.9212336540222168,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      60,
+      1738,
+      1502,
+      1808
+    ],
+    "score": 0.9235529899597168,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      1154,
+      1516,
+      1197
+    ],
+    "score": 0.776818037033081,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      55,
+      1097,
+      1516,
+      1139
+    ],
+    "score": 0.7947306632995605,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      62,
+      1392,
+      1511,
+      1436
+    ],
+    "score": 0.756804883480072,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      71,
+      172,
+      1502,
+      2055
+    ],
+    "score": 0.9998006224632263,
+    "label": "table",
+    "type": "table"
+  },
+  {
+    "box": [
+      60,
+      1737,
+      1502,
+      1808
+    ],
+    "score": 0.9702887535095215,
+    "label": "table projected row header",
+    "type": "row"
+  },
+  {
+    "box": [
+      1014,
+      175,
+      1161,
+      2045
+    ],
+    "score": 0.9994223117828369,
+    "label": "table column",
+    "type": "column"
+  },
+  {
+    "box": [
+      57,
+      1502,
+      1512,
+      1546
+    ],
+    "score": 0.7306704521179199,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      392,
+      1515,
+      568
+    ],
+    "score": 0.9534893035888672,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      1156,
+      174,
+      1339,
+      2055
+    ],
+    "score": 0.9985733032226562,
+    "label": "table column",
+    "type": "column"
+  },
+  {
+    "box": [
+      58,
+      1948,
+      1505,
+      1996
+    ],
+    "score": 0.9997449517250061,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      63,
+      1992,
+      1502,
+      2038
+    ],
+    "score": 0.9909226298332214,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      55,
+      1053,
+      1516,
+      1095
+    ],
+    "score": 0.7663417458534241,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      1009,
+      219,
+      1165,
+      1049
+    ],
+    "score": 0.9132790565490723,
+    "label": "table spanning cell",
+    "type": "cell"
+  },
+  {
+    "box": [
+      50,
+      1288,
+      1521,
+      1332
+    ],
+    "score": 0.7873547077178955,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      1805,
+      1509,
+      1870
+    ],
+    "score": 0.9746803641319275,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      1342,
+      177,
+      1511,
+      2047
+    ],
+    "score": 0.9999576807022095,
+    "label": "table column",
+    "type": "column"
+  },
+  {
+    "box": [
+      53,
+      1011,
+      1520,
+      1051
+    ],
+    "score": 0.7856876850128174,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      54,
+      945,
+      1516,
+      989
+    ],
+    "score": 0.7930893898010254,
+    "label": "table projected row header",
+    "type": "row"
+  },
+  {
+    "box": [
+      54,
+      1244,
+      1519,
+      1288
+    ],
+    "score": 0.8521139621734619,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      1904,
+      1505,
+      1954
+    ],
+    "score": 0.993680477142334,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      58,
+      1477,
+      1515,
+      1521
+    ],
+    "score": 0.8073939681053162,
+    "label": "table row",
+    "type": "row"
+  },
+  {
+    "box": [
+      56,
+      1210,
+      1514,
+      1252
+    ],
+    "score": 0.7490769028663635,
+    "label": "table projected row header",
+    "type": "row"
+  },
+  {
+    "box": [
+      57,
+      1542,
+      1512,
+      1592
+    ],
+    "score": 0.9161249399185181,
+    "label": "table row",
+    "type": "row"
+  }
+]
