@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "table_image.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [100, 200, 300, 400],
+      "area": 120000,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "table"
+    },
+    {
+      "id": 2,
+      "name": "cell"
+    }
+  ]
+}
